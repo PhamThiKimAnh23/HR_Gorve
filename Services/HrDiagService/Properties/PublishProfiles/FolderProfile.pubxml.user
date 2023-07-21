@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>Y:\publish\hrdiag_service</_PublishTargetUrl>
+    <History>True|2023-02-18T13:36:53.3360996Z;True|2023-02-07T22:26:24.2929194+07:00;True|2023-02-07T22:25:34.1137716+07:00;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/DAUltility.dll">
+      <publishTime>07/02/2023 16:53:58</publishTime>
+    </File>
+    <File Include="bin/HrGroveService.dll">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/HrGroveService.pdb">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ApplicationBlocks.Data.dll">
+      <publishTime>07/02/2023 16:53:58</publishTime>
+    </File>
+    <File Include="bin/MutosiService.BLL.dll">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/MutosiService.BLL.pdb">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/MutosiService.Data.dll">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/MutosiService.Data.dll.config">
+      <publishTime>07/02/2023 16:53:52</publishTime>
+    </File>
+    <File Include="bin/MutosiService.Data.pdb">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/MutosiService.dll">
+      <publishTime>07/02/2023 22:26:22</publishTime>
+    </File>
+    <File Include="bin/MutosiService.Entities.dll">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/MutosiService.Entities.pdb">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/MutosiService.pdb">
+      <publishTime>07/02/2023 22:26:22</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>07/02/2023 16:53:56</publishTime>
+    </File>
+    <File Include="Service References/ServiceSMS/HrGroveService.ServiceSMS.CompositeType.datasource">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Service References/ServiceSMS/MutosiService.ServiceSMS.CompositeType.datasource">
+      <publishTime>07/02/2023 16:53:53</publishTime>
+    </File>
+    <File Include="ServiceMessage/MessagerHandler.ashx">
+      <publishTime>07/02/2023 16:53:53</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="WebMobile/Register.aspx">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

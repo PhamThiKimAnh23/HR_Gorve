@@ -1,0 +1,14 @@
+Y:\MySource\HR_Gorve\Services\HrDiagService.BLL\bin\Release\MutosiService.BLL.dll
+Y:\MySource\HR_Gorve\Services\HrDiagService.BLL\bin\Release\MutosiService.BLL.pdb
+Y:\MySource\HR_Gorve\Services\HrDiagService.BLL\bin\Release\DAUltility.dll
+Y:\MySource\HR_Gorve\Services\HrDiagService.BLL\bin\Release\Microsoft.ApplicationBlocks.Data.dll
+Y:\MySource\HR_Gorve\Services\HrDiagService.BLL\bin\Release\MutosiService.Data.dll
+Y:\MySource\HR_Gorve\Services\HrDiagService.BLL\bin\Release\MutosiService.Entities.dll
+Y:\MySource\HR_Gorve\Services\HrDiagService.BLL\bin\Release\MutosiService.Data.pdb
+Y:\MySource\HR_Gorve\Services\HrDiagService.BLL\bin\Release\MutosiService.Data.dll.config
+Y:\MySource\HR_Gorve\Services\HrDiagService.BLL\bin\Release\MutosiService.Entities.pdb
+Y:\MySource\HR_Gorve\Services\HrDiagService.BLL\obj\Release\HrDiagService.BLL.csproj.AssemblyReference.cache
+Y:\MySource\HR_Gorve\Services\HrDiagService.BLL\obj\Release\HrDiagService.BLL.csproj.CoreCompileInputs.cache
+Y:\MySource\HR_Gorve\Services\HrDiagService.BLL\obj\Release\HrDiagService.BLL.csproj.CopyComplete
+Y:\MySource\HR_Gorve\Services\HrDiagService.BLL\obj\Release\MutosiService.BLL.dll
+Y:\MySource\HR_Gorve\Services\HrDiagService.BLL\obj\Release\MutosiService.BLL.pdb

@@ -1,0 +1,11 @@
+Y:\MySource\HR_Gorve\Services\HrDiagService.Entities\bin\Debug\MutosiService.Entities.dll
+Y:\MySource\HR_Gorve\Services\HrDiagService.Entities\bin\Debug\MutosiService.Entities.pdb
+Y:\MySource\HR_Gorve\Services\HrDiagService.Entities\obj\Debug\HrDiagService.Entities.csproj.CoreCompileInputs.cache
+Y:\MySource\HR_Gorve\Services\HrDiagService.Entities\obj\Debug\MutosiService.Entities.dll
+Y:\MySource\HR_Gorve\Services\HrDiagService.Entities\obj\Debug\MutosiService.Entities.pdb
+D:\Project\ERP-main\HR_Gorve\Services\HrDiagService.Entities\bin\Debug\HrDiagService.Entities.dll
+D:\Project\ERP-main\HR_Gorve\Services\HrDiagService.Entities\bin\Debug\HrDiagService.Entities.pdb
+D:\Project\ERP-main\HR_Gorve\Services\HrDiagService.Entities\obj\Debug\HrDiagService.Entities.csproj.AssemblyReference.cache
+D:\Project\ERP-main\HR_Gorve\Services\HrDiagService.Entities\obj\Debug\HrDiagService.Entities.csproj.CoreCompileInputs.cache
+D:\Project\ERP-main\HR_Gorve\Services\HrDiagService.Entities\obj\Debug\HrDiagService.Entities.dll
+D:\Project\ERP-main\HR_Gorve\Services\HrDiagService.Entities\obj\Debug\HrDiagService.Entities.pdb

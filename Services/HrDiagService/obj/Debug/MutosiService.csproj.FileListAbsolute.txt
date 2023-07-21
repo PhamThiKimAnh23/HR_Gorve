@@ -1,0 +1,17 @@
+Y:\MySource\mitosi\Services\MutosiService\obj\Debug\MutosiService.csproj.AssemblyReference.cache
+Y:\MySource\mitosi\Services\MutosiService\obj\Debug\MutosiService.csproj.CoreCompileInputs.cache
+Y:\MySource\mitosi\Services\MutosiService\bin\MutosiService.dll.config
+Y:\MySource\mitosi\Services\MutosiService\bin\MutosiService.dll
+Y:\MySource\mitosi\Services\MutosiService\bin\MutosiService.pdb
+Y:\MySource\mitosi\Services\MutosiService\bin\DAUltility.dll
+Y:\MySource\mitosi\Services\MutosiService\bin\Microsoft.ApplicationBlocks.Data.dll
+Y:\MySource\mitosi\Services\MutosiService\bin\MutosiService.BLL.dll
+Y:\MySource\mitosi\Services\MutosiService\bin\MutosiService.Data.dll
+Y:\MySource\mitosi\Services\MutosiService\bin\MutosiService.Entities.dll
+Y:\MySource\mitosi\Services\MutosiService\bin\MutosiService.BLL.pdb
+Y:\MySource\mitosi\Services\MutosiService\bin\MutosiService.Data.pdb
+Y:\MySource\mitosi\Services\MutosiService\bin\MutosiService.Data.dll.config
+Y:\MySource\mitosi\Services\MutosiService\bin\MutosiService.Entities.pdb
+Y:\MySource\mitosi\Services\MutosiService\obj\Debug\MutosiService.csproj.CopyComplete
+Y:\MySource\mitosi\Services\MutosiService\obj\Debug\MutosiService.dll
+Y:\MySource\mitosi\Services\MutosiService\obj\Debug\MutosiService.pdb

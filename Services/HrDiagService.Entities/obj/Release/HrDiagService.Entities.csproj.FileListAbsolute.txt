@@ -1,0 +1,5 @@
+Y:\MySource\HR_Gorve\Services\HrDiagService.Entities\bin\Release\MutosiService.Entities.dll
+Y:\MySource\HR_Gorve\Services\HrDiagService.Entities\bin\Release\MutosiService.Entities.pdb
+Y:\MySource\HR_Gorve\Services\HrDiagService.Entities\obj\Release\HrDiagService.Entities.csproj.CoreCompileInputs.cache
+Y:\MySource\HR_Gorve\Services\HrDiagService.Entities\obj\Release\MutosiService.Entities.dll
+Y:\MySource\HR_Gorve\Services\HrDiagService.Entities\obj\Release\MutosiService.Entities.pdb

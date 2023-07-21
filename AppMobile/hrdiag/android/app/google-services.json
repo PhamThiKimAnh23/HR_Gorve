@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "376588274086",
+    "project_id": "hr-diag",
+    "storage_bucket": "hr-diag.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376588274086:android:5478ddc087752c69aaa767",
+        "android_client_info": {
+          "package_name": "vn.com.etech.hrdiag"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "376588274086-15los1k0eep4hclsclf8m4dvbvk2k589.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "vn.com.etech.hrdiag",
+            "certificate_hash": "d6393c976a0bd2b175115bc5c7540443b4edf679"
+          }
+        },
+        {
+          "client_id": "376588274086-1sf6s28e9cqg797gctjk6shesbmljb7s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYEOVCMXHpFT42lWUmM0cClnMzX6tO_3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "376588274086-1sf6s28e9cqg797gctjk6shesbmljb7s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

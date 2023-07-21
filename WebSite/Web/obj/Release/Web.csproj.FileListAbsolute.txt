@@ -1,0 +1,2 @@
+D:\Project\ERP-main\HR_Gorve\WebSite\Web\obj\Release\Web.csproj.AssemblyReference.cache
+D:\Project\ERP-main\HR_Gorve\WebSite\Web\obj\Release\Web.csproj.CoreCompileInputs.cache

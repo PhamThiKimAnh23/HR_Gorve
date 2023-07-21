@@ -1,0 +1,12 @@
+D:\sources\SMI_2018\Web\SMI\DAL\bin\Release\DAL.dll
+D:\sources\SMI_2018\Web\SMI\DAL\bin\Release\DAL.pdb
+D:\sources\SMI_2018\Web\SMI\DAL\bin\Release\Microsoft.ApplicationBlocks.Data.dll
+D:\sources\SMI_2018\Web\SMI\DAL\bin\Release\Model.dll
+D:\sources\SMI_2018\Web\SMI\DAL\bin\Release\DAUltility.dll
+D:\sources\SMI_2018\Web\SMI\DAL\bin\Release\Model.pdb
+D:\sources\SMI_2018\Web\SMI\DAL\bin\Release\DAUltility.pdb
+D:\sources\SMI_2018\Web\SMI\DAL\obj\Release\DAL.dll
+D:\sources\SMI_2018\Web\SMI\DAL\obj\Release\DAL.pdb
+D:\sources\SMI_2018\Web\SMI\DAL\obj\Release\DAL.csprojAssemblyReference.cache
+D:\sources\SMI_2018\Web\SMI\DAL\obj\Release\DAL.csproj.CopyComplete
+D:\sources\SMI_2018\Web\SMI\DAL\obj\Release\DAL.csproj.CoreCompileInputs.cache

@@ -1,0 +1,6 @@
+D:\sources\SMI_2018\Web\SMI\DAUltility\bin\Release\DAUltility.dll
+D:\sources\SMI_2018\Web\SMI\DAUltility\bin\Release\DAUltility.pdb
+D:\sources\SMI_2018\Web\SMI\DAUltility\obj\Release\DAUltility.dll
+D:\sources\SMI_2018\Web\SMI\DAUltility\obj\Release\DAUltility.pdb
+D:\sources\SMI_2018\Web\SMI\DAUltility\obj\Release\DAUltility.csprojAssemblyReference.cache
+D:\sources\SMI_2018\Web\SMI\DAUltility\obj\Release\DAUltility.csproj.CoreCompileInputs.cache
